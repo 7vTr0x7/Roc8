@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg-color {
+  background-color: #f4f5f9;
+}
+
+.border-color {
+  border: 1px solid #cfd2dc;
+}
+
+.text {
+  color: #636363;
+}
+
+.bg-accent {
+  background-color: #e54065;
+}
+.text-accent {
+  color: #e54065;
+}
+
+.bg-email {
+  background-color: white;
+}
+.bg-read-email {
+  background-color: #f2f2f2;
+}
+
+.bg-filter {
+  background-color: #e1e4ea;
+}
+.pointer {
+  cursor: pointer;
+}
